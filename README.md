@@ -1,2 +1,2 @@
 # Learning
-figuring out Git
+figuring out Git version 2
